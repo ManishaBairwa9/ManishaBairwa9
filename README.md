@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManishaBairwa9
+- 👋 Hi, I’m Manisha Bairwa
 - 👀 I’m interested in Development and designing
 - 🌱 I’m currently learning Web Development
 - 📫 Reach me at manisha.bairwa024@gmail.com
