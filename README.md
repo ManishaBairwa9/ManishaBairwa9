@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 📫 Reach me at manisha.bairwa024@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact:  I am a very good sketching artist.
+- ⚡ Fun fact:  I am very good sketching.
 
 <!---
 ManishaBairwa9/ManishaBairwa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
