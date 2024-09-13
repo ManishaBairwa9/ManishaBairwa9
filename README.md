@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Manisha Bairwa
 - 👀 I’m interested in Development and designing
-- 🌱 I’m currently learning Web Development
 - 📫 Reach me at manisha.bairwa024@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact:  I am very good sketching.
